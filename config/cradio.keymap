@@ -105,13 +105,13 @@
         };
 
         extra_layer1 {
-            display-name = "Extra Layer 1"
-            status = "reserved"
+            display-name = "Extra Layer 1";
+            status = "reserved";
         };
 
         extra_layer2 {
-          display-name = "Extra Layer 2"
-          status = "reserved"
+          display-name = "Extra Layer 2";
+          status = "reserved";
         };
     };
 };
