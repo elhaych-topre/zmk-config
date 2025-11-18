@@ -34,12 +34,12 @@
       compatible = "zmk,combos";
       combo_layer4 {
         timeout-ms = <50>;
-        key-position = <24 25>;
+        key-positions = <24 25>;
         bindings = <&mo 4>;
       };
       combo_layer5 {
         timeout-ms = <50>;
-        key-position = <21 22>;
+        key-positions = <21 22>;
         bindings = <&mo 5>;
       };
     };
@@ -124,7 +124,7 @@
         };
 
         extra_layer2 {
-          display-name = "Layer5";
+          display-name = "Layer 5";
           status = "reserved";
         };
     };
